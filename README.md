@@ -33,6 +33,7 @@ Alguns exemplos de Implementações:
 - Reconhecimento de Vídeos e Imagens
 - Geração de Voz Natural (Speech-to-Text e Text-to-Speech)
 - Traduções Automáticas para Vídeos e Áudios
+- Operators and Replays
 
 Ou qualquer outro novo modelo lançado por quaisquer empresa.
 
