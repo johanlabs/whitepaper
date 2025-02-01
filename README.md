@@ -57,7 +57,7 @@ O principal objetivo da Johan Labs é oferecer uma solução de IA acessível, p
 
 ![workflow](https://i.imgur.com/FWF3kDY.png)
 
-#### Estapas
+#### Próximas Etapas
 0. [x] Lançamento do Johan [Maltese](https://github.com/johanlabs/maltese).
 1. [ ] Definir Modelos Padrões: Como Qwen Models e DeepSeek Models. (Llama, Mistral...)
 2. [ ] Criar Interface (Chat-UI)
