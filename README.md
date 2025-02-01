@@ -1,6 +1,6 @@
 # John Labs - WhitePaper
 
-Johan Labs é um serviço inovador que visa democratizar o acesso à Inteligência Artificial (IA), priorizando a privacidade dos usuários. Nossa API inteligente roteia o uso de diferentes modelos de IA de forma eficiente, combinando o melhor de cada um em um único produto.
+Johan Labs é uma proposta inovadora que visa democratizar o acesso à Inteligência Artificial (IA), priorizando a privacidade dos usuários ao redor do mundo.
 
 ### Funcionalidades
 #### Roteamento Inteligente de modelos de IA
